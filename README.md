@@ -1,5 +1,5 @@
-# Stm32_Driver_Template
-My own personal stm32 based driver tamplate for development.
+# GenUtl
+General utilities for embedded c projects.
 
 ## Requirements
 - GCC Compiler + arm-none-eabi packages (https://developer.arm.com/downloads/-/arm-gnu-toolchain-downloads)
